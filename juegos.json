@@ -1,0 +1,398 @@
+[
+	{
+		"name": "Vintage Escape",
+		"short_name": "Vintage Escape",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/vintage-escape/20220926193944/vintage-escape-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/vintage-escape/20220926193944/vintage-escape-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/vintage-escape/20220926193944/vintage-escape-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/vintage-escape/20220926193944/vintage-escape-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/vintage-escape",
+		"scope": "/juego/vintage-escape",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Ninja Hands",
+		"short_name": "Ninja Hands",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/ninja-hands/20220609113103/ninja-hands-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/ninja-hands/20220609113103/ninja-hands-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/ninja-hands/20220609113103/ninja-hands-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/ninja-hands/20220609113103/ninja-hands-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/ninja-hands",
+		"scope": "/juego/ninja-hands",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Lulu's Fashion World",
+		"short_name": "Lulu's Fashion World",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/lulu-s-fashion-world/20220824134432/lulu-s-fashion-world-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/lulu-s-fashion-world/20220824134432/lulu-s-fashion-world-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/lulu-s-fashion-world/20220824134432/lulu-s-fashion-world-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/lulu-s-fashion-world/20220824134432/lulu-s-fashion-world-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/lulu-s-fashion-world",
+		"scope": "/juego/lulu-s-fashion-world",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Barbiecore",
+		"short_name": "Barbiecore",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/barbiecore/20220913113251/barbiecore-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/barbiecore/20220913113251/barbiecore-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/barbiecore/20220913113251/barbiecore-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/barbiecore/20220913113251/barbiecore-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/barbiecore",
+		"scope": "/juego/barbiecore",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Fairy’s Magical Makeover",
+		"short_name": "Fairy’s Magical Makeover",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/fairy-s-magical-makeover/20210728144813/fairy-s-magical-makeover-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/fairy-s-magical-makeover/20210728144813/fairy-s-magical-makeover-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/fairy-s-magical-makeover/20210728144813/fairy-s-magical-makeover-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/fairy-s-magical-makeover/20210728144813/fairy-s-magical-makeover-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/fairy-s-magical-makeover",
+		"scope": "/juego/fairy-s-magical-makeover",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Basketball Legends 2020",
+		"short_name": "Basketball Legends 2020",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/basketball-legends-2020/20200916082052/basketball-legends-2020-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/basketball-legends-2020/20200916082052/basketball-legends-2020-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/basketball-legends-2020/20200916082052/basketball-legends-2020-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/basketball-legends-2020/20200916082052/basketball-legends-2020-cover?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/basketball-legends-2020",
+		"scope": "/juego/basketball-legends-2020",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "8 Ball Billiards Classic",
+		"short_name": "8 Ball Billiards Classic",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/8-ball-billiards-classic",
+		"scope": "/juego/8-ball-billiards-classic",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "8 Ball Billiards Classic",
+		"short_name": "8 Ball Billiards Classic",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/games/8-ball-billiards-classic/cover-1663856160911.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/8-ball-billiards-classic",
+		"scope": "/juego/8-ball-billiards-classic",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Flip Goal",
+		"short_name": "Flip Goal",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/games/flip-goal/cover-1600854405693.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/flip-goal/cover-1600854405693.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/flip-goal/cover-1600854405693.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/games/flip-goal/cover-1600854405693.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/flip-goal",
+		"scope": "/juego/flip-goal",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Moto X3M",
+		"short_name": "Moto X3M",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/games/moto-x3m/cover-1586173923704.jpeg?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/moto-x3m/cover-1586173923704.jpeg?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/moto-x3m/cover-1586173923704.jpeg?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/games/moto-x3m/cover-1586173923704.jpeg?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/moto-x3m",
+		"scope": "/juego/moto-x3m",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	},
+	{
+		"name": "Super Bike The Champion",
+		"short_name": "Super Bike The Champion",
+		"icons": [
+			{
+				"src": "https://images.crazygames.com/games/super-bike-the-champion/cover-1657186732013.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/super-bike-the-champion/cover-1657186732013.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "any"
+			},
+			{
+				"src": "https://images.crazygames.com/games/super-bike-the-champion/cover-1657186732013.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=192&h=192&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "192x192",
+				"purpose": "maskable"
+			},
+			{
+				"src": "https://images.crazygames.com/games/super-bike-the-champion/cover-1657186732013.png?auto=format,compress&q=45&cs=strip&ch=DPR&w=512&h=512&fit=fill&fill=blur",
+				"type": "image/png",
+				"sizes": "512x512",
+				"purpose": "maskable"
+			}
+		],
+		"start_url": "/juego/super-bike-the-champion",
+		"scope": "/juego/super-bike-the-champion",
+		"background_color": "#6937bb",
+		"display": "fullscreen",
+		"theme_color": "#3c1e66",
+		"categories": ["games", "entertainment"]
+	}
+]
