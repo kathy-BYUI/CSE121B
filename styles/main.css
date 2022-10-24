@@ -6,14 +6,13 @@
 	font-family: 'Montserrat Alternates', sans-serif;
 }
 body {
-	background: url(https://www.xtrafondos.com/wallpapers/montanas-con-nieve-en-el-bosque-3934.jpg);
 	background-size: 100vw 100vh;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 }
 .capa {
 	position: fixed;
 	width: 100%;
-	height: 100vh;
+	height: 135vh;
 	background: rgba(0, 0, 0, 0.6);
 	z-index: -1;
 	top: 0;
@@ -77,7 +76,7 @@ body {
 	position: absolute;
 	background: rgba(0, 0, 0, 0.5);
 	width: 100%;
-	height: 100vh;
+	height: 135vh;
 	top: 0;
 	left: 0;
 	transition: all 500ms ease;
@@ -88,22 +87,22 @@ body {
 	opacity: 1;
 	visibility: visible;
 }
-.cont-menu {
+#cont-menu {
 	width: 100%;
 	max-width: 250px;
 	background: #1c1c1c;
-	height: 100vh;
+	height: 135vh;
 	position: relative;
 	transition: all 500ms ease;
 	transform: translateX(-100%);
 }
-#btn-menu:checked ~ .container-menu .cont-menu {
+#btn-menu:checked ~ .container-menu #cont-menu {
 	transform: translateX(0%);
 }
-.cont-menu nav {
+#cont-menu nav {
 	transform: translateY(15%);
 }
-.cont-menu nav a {
+#cont-menu nav a {
 	display: block;
 	text-decoration: none;
 	padding: 20px;
@@ -111,11 +110,11 @@ body {
 	border-left: 5px solid transparent;
 	transition: all 400ms ease;
 }
-.cont-menu nav a:hover {
+#cont-menu nav a:hover {
 	border-left: 5px solid #c7c7c7;
 	background: #1f1f1f;
 }
-.cont-menu label {
+#cont-menu label {
 	position: absolute;
 	right: 5px;
 	top: 10px;
@@ -126,9 +125,11 @@ body {
 /*Lateral Menu End*/
 
 /*Cards*/
-.container-card {
+#container-card {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
 	width: 100%;
-	display: flex;
 	max-width: 1100px;
 	margin: auto;
 }
@@ -189,7 +190,7 @@ body {
 	color: #fff;
 }
 @media only screen and (min-width: 320px) and (max-width: 768px) {
-	.container-card {
+	#container-card {
 		flex-wrap: wrap;
 	}
 	.card {

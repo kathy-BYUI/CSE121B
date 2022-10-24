@@ -1,21 +1,18 @@
-function getTests() {
-	const xhttp = new XMLHttpRequest();
-	xhttp.open('GET', 'global_tests.json');
-	xhttp.send();
-	xhttp.onreadystatechange = function () {
-		if (this.readyState == 4 && this.status == 200) {
-			console.log(this.responseText);
-			let data = JSON.parse(this.responseText);
-			console.log(data);
-		}
-	};
-}
-
 let temples = [];
 
-function output(data) {
-	const listElement = document.getElementById('card');
-	listElement.innerHTML += `<article><h3>${data.templeName}</h3><h4>${data.location}</h4><h4>${data.dedicated}</h4><img src='${data.imageUrl}' alt='${data.imageUrl}'><article>`;
+function outputHome(data) {
+	const listElement = document.getElementById('container-card');
+	listElement.innerHTML += `
+	<div class="card">
+		<figure>
+			<img src='${data.imageUrl}'>
+		</figure>
+		<div class="contenido-card">
+			<h3>${data.templeName}</h3>
+			<h4>Dedication Date:</h4><h4>${data.dedicated}</h4>
+			<a href=${data.imageUrl} target="_blank">View Full Screen</a>
+		</div>
+	</div>`;
 }
 
 async function getTemples() {
@@ -25,6 +22,6 @@ async function getTemples() {
 	const data = await response.json();
 	temples = data;
 	console.log(temples);
-	temples.forEach(output);
+	temples.forEach(outputHome);
 }
-//getTemples();
+getTemples();
