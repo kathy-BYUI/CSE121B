@@ -25,3 +25,31 @@ async function getTemples() {
 	temples.forEach(outputHome);
 }
 getTemples();
+
+const weekday = [
+	'Sunday',
+	'Monday',
+	'Tuesday',
+	'Wednesday',
+	'Thursday',
+	'Friday',
+	'Saturday'
+];
+
+let dateToday = new Date();
+let day = dateToday.getDay();
+let dayName = weekday[dateToday.getDay()];
+
+if (day <= 5) {
+	firstMessage = `Today is ${dayName}. What are you doing!`;
+} else {
+	firstMessage = `Today is ${dayName}. Enjoy!`;
+}
+
+document.getElementById('message1').innerHTML = firstMessage;
+
+
+function clean() {
+	const templesList = document.getElementById('container-card');
+	templesList.innerHTML = ` `;
+}
