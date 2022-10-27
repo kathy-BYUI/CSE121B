@@ -3,7 +3,7 @@ function outputMenu(data) {
 	const listElement = document.getElementById('cont-menu');
 	listElement.innerHTML += `
 	<nav>
-		<a id=${data.location} href="#" target="_blank" name=${data.location} onClick=reset()>${data.location}</a>
+		<a id=${data.location} name=${data.location} onClick=clean()>${data.location}</a>
 	</nav>
 	<label for="btn-menu">✖️</label>
 	`;
@@ -25,3 +25,5 @@ async function getMenu() {
 	temples.forEach(outputMenu);
 }
 getMenu();
+
+
