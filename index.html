@@ -16,7 +16,7 @@
 					<h1>Categories</h1>
 				</div>
 				<nav class="menu">
-					<a href="#">Home</a>
+					<a href="#" onclick="getTemples()">Home</a>
 					<a href="#">About Us</a>
 					<a href="#">Blog</a>
 					<a href="#">Contact</a>
@@ -31,10 +31,16 @@
 		</div>
 
 		<!--   Tarjetas-->
-		<div class="title-cards">
+		<div class="title-cards">			
 			<h2>Temples of Utah</h2>
-		</div>
-		<div id="container-card"></div>
+			<h3>
+				<span id="message1"></span>
+			</h3>
+			<button onclick="clean()">Clean</button>
+			<button onclick="getTemples()">Show All</button>
+		</div>	
+		
+		<div id="container-card"></div>		
 		<!--Fin   Tarjetas-->
 		<footer>&copy;<span id="year"></span> | Final Project | Lesson 6</footer>
 		<script src="scripts/main.js"></script>
